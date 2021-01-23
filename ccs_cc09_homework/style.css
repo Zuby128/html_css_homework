@@ -1,0 +1,54 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*according to me this font type is better than times new roman*/
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin: 30px auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Pacifico; /*i coulnt find other font type and use this:)*/
+    font-size: 50px;
+}
+
+.title-img img {
+    border-radius: 15px;
+    margin: 30px auto;
+    display: flex;
+}
+
+#mid-title {
+    font-family: Pacifico; /*i coulnt find other font type and use this:)*/
+    font-size: 30px;
+}
+
+.description {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.comics-list li{
+    padding: 5px;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#wiki {
+    color: red;
+    text-decoration: none;
+}
+
+#wiki:hover {
+    color: white;
+}
