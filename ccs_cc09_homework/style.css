@@ -1,8 +1,6 @@
 *{
-    background-color: black;
     color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    /*according to me this font type is better than times new roman*/
+    background-color: black;
 }
 
 .container {
@@ -15,7 +13,7 @@
 .title {
     text-align: center;
     margin-bottom: 30px;
-    font-family: Pacifico; /*i coulnt find other font type and use this:)*/
+    font-family: 'Lobster', cursive;
     font-size: 50px;
 }
 
@@ -26,7 +24,7 @@
 }
 
 #mid-title {
-    font-family: Pacifico; /*i coulnt find other font type and use this:)*/
+    font-family: 'Lobster', cursive;
     font-size: 30px;
 }
 
